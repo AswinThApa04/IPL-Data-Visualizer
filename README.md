@@ -22,6 +22,7 @@ This project was built as part of the Samsung Innovation Campus Python program. 
 - Pandas
 - Plotly Express & Graph Objects
 - CSV (Data Source)
+## ⚠️ Note: The actual IPL 2022 dataset (`IPL2022_Data.csv`) is not included due to source restrictions. You can add your own structured IPL 2022 dataset to run the visualizations.
 
 ## 📊 How to Run
 
@@ -43,4 +44,19 @@ This project was built as part of the Samsung Innovation Campus Python program. 
 
 ## 📈 Sample Visualizations
 
-> Add screenshots in `assets/screenshots/` and embed them here.
+Below are some key insights derived from the IPL 2022 match data:
+
+### 🏆 Matches Won by Teams
+![Matches Won](assets/screenshots/match_winner.png)
+
+### 🧠 Toss Decision vs Outcome
+![Toss Decision](assets/screenshots/toss_decision.png)
+
+### 🌟 Top Performers (Player of the Match & Best Bowlers)
+![Player of the Match & Best Bowlers](assets/screenshots/player_bowler_otm.png)
+
+### 🔥 Top Scorers and Their High Scores
+![Top Scorers](assets/screenshots/top_scorer.png)
+
+> ⚠️ Dataset has been excluded from the repository. All insights are visualized and preserved via the screenshots.
+
