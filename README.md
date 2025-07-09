@@ -27,8 +27,8 @@ This project was built as part of the Samsung Innovation Campus Python program. 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/ipl-2022-data-visualizer
-   cd ipl-2022-data-visualizer
+   git clone https://github.com/AswinThApa04/ipl-2022-data-visualizer
+   cd IPL-Data-Visualizer
    ```
 
 2. Install dependencies:
